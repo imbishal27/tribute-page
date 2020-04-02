@@ -1,0 +1,51 @@
+*{
+    margin:0;
+}
+
+body{
+   margin:30px;
+}
+
+#main{
+    background-color: #f4eeee;
+    border-radius:1% ;
+}
+
+#title{
+    text-align: center;
+    padding-top:30px ;
+    padding-bottom: 20px;
+}
+
+h1{
+    padding-bottom: 30px;
+}
+#img-div{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    grid-gap:10px;
+}
+
+#tribute-info{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    grid-gap: 10px;
+    
+}
+
+li{
+    margin: 15px 275px 15px 275px;
+}
+
+#quote{
+    margin:40px 275px 40px 275px;
+}
+#detail{
+    font-size: 20px;
+}
